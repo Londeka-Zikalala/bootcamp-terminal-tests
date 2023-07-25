@@ -1,1 +1,1 @@
-[![Node.js Package](https://github.com/Londeka-Zikalala/bootcamp-terminal-tests/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/Londeka-Zikalala/bootcamp-terminal-tests/actions/workflows/npm-publish.yml)
+[![Node.js CI](https://github.com/Londeka-Zikalala/bootcamp-terminal-tests/actions/workflows/node.js.yml/badge.svg)](https://github.com/Londeka-Zikalala/bootcamp-terminal-tests/actions/workflows/node.js.yml)
